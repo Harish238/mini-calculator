@@ -1,0 +1,13 @@
+#form{
+    display: block;
+    text-align: center;
+    margin-left: 100px;
+    border-radius: 20px forestgreen;
+}
+.background{
+    display: flex;
+    flex-direction: column;
+    margin-left: 450px;
+    width:300px;
+    background-color: rgba(49, 198, 11, 0.577);
+}
